@@ -581,5 +581,3 @@ Registration.prototype = {
 if (!MutationObserver) {
   MutationObserver = JsMutationObserver;
 }
-
-module.exports = MutationObserver;
